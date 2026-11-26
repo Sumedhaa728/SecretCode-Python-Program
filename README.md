@@ -65,7 +65,7 @@ The decoding process reverses the encoding operations:
 - String Concatenation
 - Lists
 - `random.choice()`
-- `split()` and `join()` methods
+- `split()` method from string methods.
 
 ## 🎯 Purpose
 
