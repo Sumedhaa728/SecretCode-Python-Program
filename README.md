@@ -71,6 +71,4 @@ The decoding process reverses the encoding operations:
 
 This project was developed to practice fundamental Python programming concepts by implementing a simple message encoding and decoding mechanism.
 
----
 
-**Note:** This is a basic learning project and is not intended for secure encryption or protecting sensitive information.
