@@ -15,7 +15,7 @@ def encoding(passed_value):
             for i in range(1,len(word)):
                 encoded_msg += word[i]  # copy the word except first character
             encoded_msg += word[0]      # appending first character to the end
-            random_char = ["p","q","r","s","t"]
+            random_char = list("abcdefghijklmnopqrstuvwxyz")
             left_random = random.choice(random_char)+random.choice(random_char)+random.choice(random_char)
             right_random = random.choice(random_char)+random.choice(random_char)+random.choice(random_char)
             encoded_msg = left_random + encoded_msg + right_random  # adding 3 random random_char at start and end
