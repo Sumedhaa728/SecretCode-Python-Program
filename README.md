@@ -40,13 +40,13 @@ The decoding process reverses the encoding operations:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/KBC-Python-MiniQuiz.git
+   git clone https://github.com/Sumedhaa728/SecretCode-Python-Program.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd KBC-Python-MiniQuiz
+   cd SecretCode-Python-Program
    ```
 
 3. Run the Python program:
